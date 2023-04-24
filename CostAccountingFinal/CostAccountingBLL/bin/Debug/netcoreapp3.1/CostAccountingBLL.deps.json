@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CostAccountingBLL/1.0.0": {
+        "dependencies": {
+          "CostAccountingDAL": "1.0.0"
+        },
+        "runtime": {
+          "CostAccountingBLL.dll": {}
+        }
+      },
+      "CostAccountingDAL/1.0.0": {
+        "runtime": {
+          "CostAccountingDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CostAccountingBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CostAccountingDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\bin\Debug\netcoreapp3.1\CostAccountingDAL.deps.json
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\bin\Debug\netcoreapp3.1\CostAccountingDAL.dll
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\bin\Debug\netcoreapp3.1\CostAccountingDAL.pdb
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.csproj.AssemblyReference.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.AssemblyInfoInputs.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.AssemblyInfo.cs
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.csproj.CoreCompileInputs.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.dll
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingDAL\obj\Debug\netcoreapp3.1\CostAccountingDAL.pdb

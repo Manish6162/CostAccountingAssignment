@@ -1,0 +1,13 @@
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\bin\Debug\netcoreapp3.1\CostAccountingBLL.deps.json
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\bin\Debug\netcoreapp3.1\CostAccountingBLL.dll
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\bin\Debug\netcoreapp3.1\CostAccountingBLL.pdb
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\bin\Debug\netcoreapp3.1\CostAccountingDAL.dll
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\bin\Debug\netcoreapp3.1\CostAccountingDAL.pdb
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.csproj.AssemblyReference.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.AssemblyInfoInputs.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.AssemblyInfo.cs
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.csproj.CoreCompileInputs.cache
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.csproj.CopyComplete
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.dll
+C:\AllviewAssignmnet\CostAccountingFinal\CostAccountingBLL\obj\Debug\netcoreapp3.1\CostAccountingBLL.pdb
